@@ -1,0 +1,16 @@
+:host {
+   .active {
+      background: #dfdfdf;
+      color: black;
+   }
+
+   .example-spacer {
+      flex: 1 1 auto;
+   }
+
+   ul{
+      display: flex;
+      gap: 20px;
+      list-style: none;
+   }
+}
